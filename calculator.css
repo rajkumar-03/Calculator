@@ -1,0 +1,26 @@
+#cal{
+    border: solid 2px blue;
+    width: 280px;
+    height: 400px;
+    position: absolute;
+    margin: 200px 600px;
+}
+.btn{
+    background-color: aqua;
+    border: solid 1px black;
+    float: left;
+    border-radius: 0%;
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+}
+#input{
+    background-color: aquamarine;
+    font-size: 30px;
+    width: 280px;
+    height: 120px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+}
